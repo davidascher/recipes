@@ -1,0 +1,1 @@
+\[ P(E) = {n \choose k} p^k (1-p)^{ n-k} \] but how does it know who this is?
