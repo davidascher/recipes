@@ -1,4 +1,4 @@
-[[pages All Recipes]]
+[[pages|All Recipes]]
 
 Recipes I want to try:
 
