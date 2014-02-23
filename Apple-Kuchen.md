@@ -1,4 +1,4 @@
-Ingredients
+## Ingredients
 
 * 1c flour
 * 1/4 tsp baking powder
@@ -7,14 +7,14 @@ Ingredients
 * 1/2 c butter
 * 3 cups apples, peeled & thinly sliced
 
-Topping
+## Topping
 
 * 1/2 c sugar (usually use less)
 * 1/2 tsp cinnamon (usually use less)
 * 1 egg yolk
 * 3 Tbsp whipping cream
 
-Steps
+## Steps
 
 1. Preheat oven 350F
 1. mix flour, baking powder, salt, sugar
