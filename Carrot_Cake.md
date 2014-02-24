@@ -6,6 +6,8 @@
 * 2 teaspoons ground cinnamon
 * ½ teaspoon salt
 
+## Steps
+
 Mix the above
 
 add:
