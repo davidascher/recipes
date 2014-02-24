@@ -2,7 +2,7 @@
 
 * 2 cups of flour
 * 1 and ½ cups of cassonade
-* 2 teaspoons baking soda (bicarbonate de soude)
+* 2 teaspoons baking soda (bicarbonate de soude) (or 3x that for baking powder)
 * 2 teaspoons ground cinnamon
 * ½ teaspoon salt
 
