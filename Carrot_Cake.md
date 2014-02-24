@@ -1,3 +1,7 @@
+---
+title: Carrot Cake
+---
+
 # Carrot cake
 
 * 2 cups of flour
