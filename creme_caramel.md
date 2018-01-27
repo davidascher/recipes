@@ -7,25 +7,25 @@ _From Penny via Thanassi_
 
 ### Ingredients
 
-# 3 eggs
-# 2 c of milk
-# 6 Tbsp sugar (for milk)
-# 6 Tbsp sugar (for caramel)
-# salted butter to butter ramekins
+* 3 eggs
+* 2 c of milk
+* 6 Tbsp sugar (for milk)
+* 6 Tbsp sugar (for caramel)
+* salted butter to butter ramekins
 
 ### Steps
 
-# Preheat oven at 250° F
-# butter ramekins (claims 4, I think it's more like 6)
-# melt sugar in pan on low-medium heat until fully melted, spread at bottom of each ramekin equally
-# beat eggs
-# mix milk and sugar in a small pot, heat till hot but not boiling
-# slowly add sweet milk mixture to beaten eggs, mix.
-# add ramekins to baking dish with high sides
-# add mixture to ramekins
-# add hot water to half-way up the ramekins
-# bake about 50m until set but not boiling  (may need to be longer)
-# cool ramekins in the fridge for at least an hour
+* Preheat oven at 250° F
+* butter ramekins (claims 4, I think it's more like 6)
+* melt sugar in pan on low-medium heat until fully melted, spread at bottom of each ramekin equally
+* beat eggs
+* mix milk and sugar in a small pot, heat till hot but not boiling
+* slowly add sweet milk mixture to beaten eggs, mix.
+* add ramekins to baking dish with high sides
+* add mixture to ramekins
+* add hot water to half-way up the ramekins
+* bake about 50m until set but not boiling  (may need to be longer)
+* cool ramekins in the fridge for at least an hour
 
 ## French
 
