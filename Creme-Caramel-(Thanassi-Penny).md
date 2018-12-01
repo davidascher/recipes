@@ -4,7 +4,7 @@ Pour 4 personnes
 
 * 3 œufs entiers
 * 50 cl de lait
-3/4 c de sucre (1/2 pour le caramel, 1/2 pour le lait)
+* 3/4 c de sucre (1/2 pour le caramel, 1/2 pour le lait)
 * 80 g de sucre en poudre
 * 15 morceaux de sucre = 15x5=75g = 22 little cubes 
 * beurre salé pour les ramequins
