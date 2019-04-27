@@ -7,6 +7,9 @@
 * [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
 * [Corn, ham and potato soup](soups/untitled.md)
 * [Napa cabbage soup with meat dumplings](soups/napa-cabbage-soup-with-meat-dumplings.md)
+* [Portuguese Kale Soup](soups/portuguese-kale-soup.md)
+* [Hugo's Chicken Stock + Soup](soups/hugos-chicken-stock-+-soup.md)
+* [Fish Chowder](soups/fish-chowder.md)
 
 ## Meat
 
