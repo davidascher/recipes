@@ -7,6 +7,10 @@
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
 * [Croquettes](appetizers/croquettes.md)
 
+## Mains
+
+* [Pesto pasta](mains/untitled.md)
+
 ## Desserts
 
 * [Martha's-lithuanian-kolacky-cookies](desserts/marthas-lithuanian-kolacky-cookies.md)
@@ -100,8 +104,4 @@
 * [Crème-au-Moka](desserts/cre-me-au-moka.md)
 * [Gâteau-de-fête-juive](desserts/ga-teau-de-fe-te-juive.md)
 * [Untitled](desserts/untitled.md)
-
-## Mains
-
-* [Pesto pasta](mains/untitled.md)
 
