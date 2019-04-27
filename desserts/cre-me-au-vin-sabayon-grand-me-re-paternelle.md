@@ -1,4 +1,4 @@
-# Crème-au-vin-–-sabayon-\(grand-mère-paternelle\)
+# Crème-au-vin-–-sabayon-\(grand-mère-paternelle\)
 
 6 jaunes d’oeufs
 

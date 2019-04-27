@@ -1,4 +1,4 @@
-# Tarte-au-chocolat-\(Irène-T\)
+# Tarte-au-chocolat-\(Irène-T\)
 
 ## Ingrédients
 

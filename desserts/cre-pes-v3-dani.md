@@ -1,4 +1,4 @@
-# Crêpes-v3-\(dani\)
+# Crêpes-v3-\(dani\)
 
 250 grammes de farine
 

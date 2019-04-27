@@ -1,4 +1,4 @@
-# Butterkuchen---gâteau-sec
+# Butterkuchen---gâteau-sec
 
 * 250 grammes de beurre
 * 200 grammes de sucre

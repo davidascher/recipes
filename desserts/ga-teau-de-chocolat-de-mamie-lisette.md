@@ -1,4 +1,4 @@
-# Gâteau-de-chocolat-de-Mamie-Lisette
+# Gâteau-de-chocolat-de-Mamie-Lisette
 
 ## Ingrédients
 

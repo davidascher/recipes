@@ -1,4 +1,4 @@
-# Gâteaux-secs-à-la-cannelle
+# Gâteaux-secs-à-la-cannelle
 
 ## Ingrédients
 

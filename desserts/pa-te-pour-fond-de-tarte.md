@@ -1,4 +1,4 @@
-# Pâte-pour-fond-de-tarte
+# Pâte-pour-fond-de-tarte
 
 * 60 grammes sucre glace tamise
 * 60 grammes de beurre

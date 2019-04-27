@@ -1,4 +1,4 @@
-# Gâteau-au-chocolat-\(Danielle-Z-Simone\)
+# Gâteau-au-chocolat-\(Danielle-Z-Simone\)
 
 300 grammes suchard amer
 

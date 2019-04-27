@@ -1,4 +1,4 @@
-# Gâteaux-secs-à-l'écorces-d'orange
+# Gâteaux-secs-à-l'écorces-d'orange
 
 * 4 oeufs entiers
 * 500 grammes sucre

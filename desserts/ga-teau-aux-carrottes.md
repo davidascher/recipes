@@ -1,4 +1,4 @@
-# Gâteau-aux-carrottes
+# Gâteau-aux-carrottes
 
 même que \[\[Gâteau aux noisettes\]\] sauf
 

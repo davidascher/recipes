@@ -1,4 +1,4 @@
-# Tuiles-aux-amandes-\(Hélène-Van-Vygeland\)
+# Tuiles-aux-amandes-\(Hélène-Van-Vygeland\)
 
 ## Ingrédients
 

@@ -1,4 +1,4 @@
-# Glaçage
+# Glaçage
 
 * 125 grammes de chocolat pour les gâteaux
 * 50 grammes de beurre

@@ -1,4 +1,4 @@
-# Gâteau-de-fête-juive
+# Gâteau-de-fête-juive
 
 1 verre de dates dénoyautés
 

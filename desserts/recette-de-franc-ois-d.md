@@ -1,4 +1,4 @@
-# Recette-de-François-D
+# Recette-de-François-D
 
 * oeufs 1 à deux jaunes
 * crème 20 cl liquide

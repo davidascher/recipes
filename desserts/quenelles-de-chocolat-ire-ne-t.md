@@ -1,4 +1,4 @@
-# Quenelles-de-chocolat-\(Irène-T\)
+# Quenelles-de-chocolat-\(Irène-T\)
 
 ## Ingrédients
 

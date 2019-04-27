@@ -1,4 +1,4 @@
-# Petits-gâteau-aux-noix-\(Margot\)
+# Petits-gâteau-aux-noix-\(Margot\)
 
 2 oeufs
 

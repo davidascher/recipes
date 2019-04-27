@@ -1,4 +1,4 @@
-# Gâteau-à-l'orange-\(Mme-Blanc\)
+# Gâteau-à-l'orange-\(Mme-Blanc\)
 
 * 175 grammes sucre
 * 175 grammes farine

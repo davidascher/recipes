@@ -1,4 +1,4 @@
-# Pains-de-Gènes
+# Pains-de-Gènes
 
 125 grammes sucre poudre
 

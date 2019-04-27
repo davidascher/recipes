@@ -1,4 +1,4 @@
-# Gâteau-de-Noël-\(Lisette\)
+# Gâteau-de-Noël-\(Lisette\)
 
 * 4 oeufs entiers
 * 1 l de sucre

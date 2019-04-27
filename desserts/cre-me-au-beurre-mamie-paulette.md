@@ -1,4 +1,4 @@
-# Crème-au-beurre-Mamie-Paulette
+# Crème-au-beurre-Mamie-Paulette
 
 pour 1 jaune d'oeuf:
 

@@ -1,4 +1,4 @@
-# Gâteau-moka-\(Tante-Irène\)
+# Gâteau-moka-\(Tante-Irène\)
 
 8 oeufs
 

@@ -1,4 +1,4 @@
-# Pâte-a-tarte-de-Mamie-Paulette
+# Pâte-a-tarte-de-Mamie-Paulette
 
 * 800 grammes de farine
 * 250 grammes de beurre

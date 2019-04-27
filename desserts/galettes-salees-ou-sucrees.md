@@ -1,4 +1,4 @@
-# Galettes-salées-ou-sucrées
+# Galettes-salées-ou-sucrées
 
 * 1 tasse de crème
 * 1 pincée de sel ou sucre

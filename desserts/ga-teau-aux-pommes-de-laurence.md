@@ -1,4 +1,4 @@
-# Gâteau-aux-pommes-\(de-Laurence\)
+# Gâteau-aux-pommes-\(de-Laurence\)
 
 * 10 c à soupe de farine
 * 8 c à soupe de sucre

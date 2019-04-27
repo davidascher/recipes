@@ -1,4 +1,4 @@
-# Tarte-à-la-cannelle
+# Tarte-à-la-cannelle
 
 ## Ingrédients
 

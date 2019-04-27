@@ -1,4 +1,4 @@
-# Gâteau-secs-\(étoiles,-etc.\)
+# Gâteau-secs-\(étoiles,-etc.\)
 
 * 750 grammes de beurre
 * 250 grammes sucre

@@ -1,4 +1,4 @@
-# Pain-d'épices-\(Jean-Massoulie\)
+# Pain-d'épices-\(Jean-Massoulie\)
 
 280 grammes farine
 

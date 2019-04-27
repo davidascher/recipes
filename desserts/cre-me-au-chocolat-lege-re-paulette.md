@@ -1,4 +1,4 @@
-# Crème-au-chocolat-légère-\(Paulette\)
+# Crème-au-chocolat-légère-\(Paulette\)
 
 250 grammes chocolat
 

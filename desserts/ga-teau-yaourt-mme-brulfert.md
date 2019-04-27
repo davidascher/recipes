@@ -1,4 +1,4 @@
-# Gâteau-Yaourt-\(Mme-Brulfert\)
+# Gâteau-Yaourt-\(Mme-Brulfert\)
 
 * 1 pot de yaourt
 * 2 pots de sucre

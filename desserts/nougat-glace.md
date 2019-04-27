@@ -1,4 +1,4 @@
-# Nougat-glacé
+# Nougat-glacé
 
 Pour 6 personnes:
 

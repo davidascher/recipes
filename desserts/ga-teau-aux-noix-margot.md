@@ -1,4 +1,4 @@
-# Gâteau-aux-noix-\(Margot\)
+# Gâteau-aux-noix-\(Margot\)
 
 250 grammes noix
 

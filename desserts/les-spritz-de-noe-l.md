@@ -1,4 +1,4 @@
-# Les-spritz-de-Noël
+# Les-spritz-de-Noël
 
 * 500 grammes de beurre
 * 500 grammes de sucre

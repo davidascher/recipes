@@ -1,4 +1,4 @@
-# Petits-gâteaux-secs-aux-raisins
+# Petits-gâteaux-secs-aux-raisins
 
 pour chaque blanc d'oeuf:
 

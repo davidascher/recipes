@@ -1,4 +1,4 @@
-# Gâteau-de-pain-et-de-pommes
+# Gâteau-de-pain-et-de-pommes
 
 * 1 kg pommes \(petits morceaux\)
 * 150 grammes pain trempé
