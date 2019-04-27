@@ -6,6 +6,7 @@
 
 * [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
 * [Corn, ham and potato soup](soups/untitled.md)
+* [Napa cabbage soup with meat dumplings](soups/napa-cabbage-soup-with-meat-dumplings.md)
 
 ## Meat
 
