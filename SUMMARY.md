@@ -10,6 +10,7 @@
 * [Portuguese Kale Soup](soups/portuguese-kale-soup.md)
 * [Hugo's Chicken Stock + Soup](soups/hugos-chicken-stock-+-soup.md)
 * [Fish Chowder](soups/fish-chowder.md)
+* [Hamburger soup](soups/hamburger-soup.md)
 
 ## Meat
 
