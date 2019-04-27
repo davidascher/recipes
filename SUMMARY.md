@@ -2,6 +2,15 @@
 
 * [README](README.md)
 
+## Soups
+
+* [Untitled](soups/untitled.md)
+
+## Meat
+
+* [Squash soup with chili sauce](meat/squash-soup-with-chili-sauce.md)
+* [Untitled](meat/untitled.md)
+
 ## Appetizers
 
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
