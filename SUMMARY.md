@@ -5,7 +5,7 @@
 ## Soups
 
 * [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
-* [Untitled](soups/untitled.md)
+* [Corn, ham and potato soup](soups/untitled.md)
 
 ## Meat
 
