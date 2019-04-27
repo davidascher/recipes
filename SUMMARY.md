@@ -10,6 +10,7 @@
 ## Mains
 
 * [Pesto pasta](mains/untitled.md)
+* [Pasta Sauce](mains/pasta-sauce.md)
 
 ## Desserts
 
