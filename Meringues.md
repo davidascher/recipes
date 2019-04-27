@@ -1,1 +1,0 @@
-Pour 1 oeuf 60 grammes de sucre (oui, c'est tout ce qui est marque) 
