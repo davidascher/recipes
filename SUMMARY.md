@@ -4,11 +4,11 @@
 
 ## Soups
 
+* [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
 * [Untitled](soups/untitled.md)
 
 ## Meat
 
-* [Squash soup with chili sauce](meat/squash-soup-with-chili-sauce.md)
 * [Untitled](meat/untitled.md)
 
 ## Appetizers
