@@ -29,4 +29,3 @@ Add the orange juiec, orange zest, capers, vinegar to the skillet and boil over 
 
 Add up to to 4 Tbsp of water if sauce looks thick.  Return veal to the pain and turn each piece to coat with sauce.  Transfer the veal to large serving platter \(or serve on pasta\)
 
-* 
