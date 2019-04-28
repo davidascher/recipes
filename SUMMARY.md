@@ -17,11 +17,17 @@
 * [Roasted chicken with pancetta and lentils](meat/untitled.md)
 * [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
 * [Veal Piccata with Orange, Capers and Tarragon](meat/veal-piccata-with-orange-capers-and-tarragon.md)
+* [Chicken with cream + noodles](meat/chicken-with-cream-+-noodles.md)
 
 ## Appetizers
 
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
 * [Croquettes](appetizers/croquettes.md)
+
+## Salads
+
+* [Flank steak + lentil salad](salads/flank-steak-+-lentil-salad.md)
+* [Blueberry \(or grape\) chicken + pasta salad](salads/blueberry-or-grape-chicken-+-pasta-salad.md)
 
 ## Mains
 
