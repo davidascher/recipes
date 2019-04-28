@@ -1,5 +1,5 @@
 ---
-description: Serve on orrechiette pasta
+description: Serve on 1 lb of orrechiette pasta
 ---
 
 # Veal Piccata with Orange, Capers and Tarragon
