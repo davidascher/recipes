@@ -44,6 +44,3 @@ Make ahead: the meatballs and sauce can be refrigerated separately for up to a d
 
 Add the meatballs to the sauce and simmer over low heat just until heated through, about 3 minutes.
 
-* 
-### 
-
