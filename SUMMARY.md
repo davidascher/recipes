@@ -16,6 +16,7 @@
 
 * [Roasted chicken with pancetta and lentils](meat/untitled.md)
 * [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
+* [Veal Piccata with Orange, Capers and Tarragon](meat/veal-piccata-with-orange-capers-and-tarragon.md)
 
 ## Appetizers
 
