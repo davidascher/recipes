@@ -14,7 +14,8 @@
 
 ## Meat
 
-* [Untitled](meat/untitled.md)
+* [Roasted chicken with pancetta and lentils](meat/untitled.md)
+* [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
 
 ## Appetizers
 
