@@ -18,6 +18,8 @@
 * [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
 * [Veal Piccata with Orange, Capers and Tarragon](meat/veal-piccata-with-orange-capers-and-tarragon.md)
 * [Chicken with cream + noodles](meat/chicken-with-cream-+-noodles.md)
+* [Zucchini with italian sausage stuffing](meat/zucchini-with-italian-sausage-stuffing.md)
+* [Beef & spinach stir-fry with oyster sauce](meat/beef-and-spinach-stir-fry-with-oyster-sauce.md)
 
 ## Appetizers
 
@@ -28,6 +30,7 @@
 
 * [Flank steak + lentil salad](salads/flank-steak-+-lentil-salad.md)
 * [Blueberry \(or grape\) chicken + pasta salad](salads/blueberry-or-grape-chicken-+-pasta-salad.md)
+* [Thai chicken lettuce wraps](salads/thai-chicken-lettuce-wraps.md)
 
 ## Mains
 
