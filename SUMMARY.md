@@ -21,6 +21,7 @@
 * [Zucchini with italian sausage stuffing](meat/zucchini-with-italian-sausage-stuffing.md)
 * [Beef & spinach stir-fry with oyster sauce](meat/beef-and-spinach-stir-fry-with-oyster-sauce.md)
 * [Pork and eggplan stir-fry](meat/pork-and-eggplan-stir-fry.md)
+* [Beef Stroganoff](meat/beef-stroganoff.md)
 
 ## Appetizers
 
@@ -32,11 +33,17 @@
 * [Flank steak + lentil salad](salads/flank-steak-+-lentil-salad.md)
 * [Blueberry \(or grape\) chicken + pasta salad](salads/blueberry-or-grape-chicken-+-pasta-salad.md)
 * [Thai chicken lettuce wraps](salads/thai-chicken-lettuce-wraps.md)
+* [Moosewood Tabouli](salads/moosewood-tabouli.md)
+* [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 
-## Mains
+## Meatless
 
-* [Pesto pasta](mains/untitled.md)
-* [Pasta Sauce](mains/pasta-sauce.md)
+* [Madame Laracine's Gratin Dauphinois](meatless/madame-laracines-gratin-dauphinois.md)
+
+## Pasta
+
+* [Pesto pasta](pasta/untitled.md)
+* [Pasta Sauce](pasta/pasta-sauce.md)
 
 ## Desserts
 
