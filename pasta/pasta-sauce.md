@@ -23,9 +23,9 @@ description: Classic tomato sauce.  This makes a large pot. Freeze extras.
 
 In large pot:
 
-1. [ ] Gently sauté onions, celery, garlic in a lot of olive oil until well done, not brown \(takes a while\)
-2. [ ] Add tomato paste, mix well, cook a couple of minutes
-3. [ ] Add all tomato products, water to top of pot, add herbs, mix well
-4. [ ] Sauté gently till olive oil forms black skin on top -- stir from bottom regularly.  Takes a while.  It will tend to stick and scorch.  Reduce more if too thin.
-5. [ ] When done, taste for salt and adjust.
+1. Gently sauté onions, celery, garlic in a lot of olive oil until well done, not brown \(takes a while\)
+2. Add tomato paste, mix well, cook a couple of minutes
+3. Add all tomato products, water to top of pot, add herbs, mix well
+4. Sauté gently till olive oil forms black skin on top -- stir from bottom regularly.  Takes a while.  It will tend to stick and scorch.  Reduce more if too thin.
+5. When done, taste for salt and adjust.
 
