@@ -20,7 +20,7 @@
 * [Chicken with cream + noodles](meat/chicken-with-cream-+-noodles.md)
 * [Zucchini with italian sausage stuffing](meat/zucchini-with-italian-sausage-stuffing.md)
 * [Beef & spinach stir-fry with oyster sauce](meat/beef-and-spinach-stir-fry-with-oyster-sauce.md)
-* [Pork and eggplan stir-fry](meat/pork-and-eggplan-stir-fry.md)
+* [Pork and eggplant stir-fry](meat/pork-and-eggplant-stir-fry.md)
 * [Beef Stroganoff](meat/beef-stroganoff.md)
 
 ## Appetizers

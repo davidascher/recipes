@@ -1,4 +1,4 @@
-# Pork and eggplan stir-fry
+# Pork and eggplant stir-fry
 
 ## Ingredients
 
