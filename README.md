@@ -6,13 +6,11 @@ A fun fact about recipes -- in a notable bit of legal wisdom, they are not copyr
 
 ## TODO
 
-* Pink pasta sauce
-* blood sausage
+* Blood sausage
 * Meatloaf
 * Spaghetti with anchovies and breadcrumbs
-* Asian spicy beef and eggplant dish.
 
-## General data
+## **General data**
 
 ### Temperatures
 
