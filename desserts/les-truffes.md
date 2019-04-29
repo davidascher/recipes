@@ -1,4 +1,4 @@
-# Les-Truffes
+# Les Truffes
 
 125 grammes de beurre
 

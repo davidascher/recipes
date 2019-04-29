@@ -98,7 +98,7 @@
 * [Carrot cake](desserts/carrot_cake.md)
 * [Ganache](desserts/ganache.md)
 * [Flan](desserts/flan.md)
-* [Les-Truffes](desserts/les-truffes.md)
+* [Les Truffes](desserts/les-truffes.md)
 * [Salzburger-Nockerl](desserts/salzburger-nockerl.md)
 * [Cheese-cake](desserts/cheese-cake.md)
 * [Pie](desserts/pie.md)
