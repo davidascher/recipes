@@ -35,6 +35,7 @@
 * [Thai chicken lettuce wraps](salads/thai-chicken-lettuce-wraps.md)
 * [Moosewood Tabouli](salads/moosewood-tabouli.md)
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
+* [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
 
 ## Meatless
 
