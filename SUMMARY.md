@@ -45,6 +45,7 @@
 
 * [Pesto pasta](pasta/untitled.md)
 * [Pasta Sauce](pasta/pasta-sauce.md)
+* [Pink Vodka Sauce Pasta](pasta/pink-vodka-sauce-pasta.md)
 
 ## Desserts
 
