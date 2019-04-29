@@ -2,7 +2,7 @@
 description: Classic tomato sauce.  This makes a large pot. Freeze extras.
 ---
 
-# Pasta Sauce
+# Tomato Sauce \(for pasta etc.\)
 
 ## Ingredients
 
