@@ -47,6 +47,8 @@
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
 * [Pink Vodka Sauce Pasta](pasta/pink-vodka-sauce-pasta.md)
 * [Lamb Ragù](pasta/lamb-ragu.md)
+* [Pasta Puttanesca](pasta/pasta-puttanesca.md)
+* [Linguini Vongole \(clams\)](pasta/linguini-vongole-clams.md)
 
 ## Desserts
 
