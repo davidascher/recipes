@@ -46,6 +46,7 @@
 * [Pesto pasta](pasta/untitled.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
 * [Pink Vodka Sauce Pasta](pasta/pink-vodka-sauce-pasta.md)
+* [Lamb Ragù](pasta/lamb-ragu.md)
 
 ## Desserts
 
