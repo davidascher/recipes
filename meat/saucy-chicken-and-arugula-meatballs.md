@@ -40,7 +40,7 @@ description: Very good but time consuming
 
 * In the same skillet, melt the butter over moderate heat. Add the shallots and cook until softened, about 3 minutes.  Add the cognac, raise the heat to high and cook until evaporated. Add the tomatoes and the thyme and season with salt and pepper.  Bring to a simmer and cook until the sauce is thick, about 8 minutes.
 
-Make ahead: the meatballs and sauce can be refrigerated separately for up to a day.  Return both to room temp before continuing.
+Make ahead: the meatballs and sauce can be refrigerated separately for up to a day. Return both to room temp before continuing.
 
 Add the meatballs to the sauce and simmer over low heat just until heated through, about 3 minutes.
 

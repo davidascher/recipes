@@ -21,5 +21,3 @@
 * Place in oven and roast for 12 minutes or until chicken is golden and cooked through. 
 * Stir in parsley and serve
 
-
-

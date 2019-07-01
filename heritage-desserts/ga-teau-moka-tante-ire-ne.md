@@ -36,6 +36,6 @@ Crème au beurre:
 jaunes d'oeufs
 sucre glace
 essence de café
-noix 
+noix
 ```
 

@@ -21,8 +21,8 @@ description: >-
 
 ## Steps
 
-Soak the lentils in water while you are preparing the rest of the ingredients.  Remaining ingredients.  
-  
+Soak the lentils in water while you are preparing the rest of the ingredients. Remaining ingredients.
+
 Place the onions in large frying pan. Add a quarter cup water and bring to simmer over medium heat. Cook, stirring often until the onions are soft, translucent and reduced in volume. Continue cooking onions in the water until the liquid has evaporated. Add the olive oil and continue cooking, stirring often until the onions are deep brown 15 to twenty minutes. Drain off the oil, pressing down through a sieve over the pot that you will be cooking the rice and the lentils in. Save the onions.
 
 Drain the lentils and place them in a medium pot. Fill with enough cold water to cover the lentils by a few inches. Bring to simmer. Cook until just tender but still firm, anywhere from 10 to 20 minutes depending on the dryness of the lentils. Drain the lentils, discarding the water. Save the lentils.

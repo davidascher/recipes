@@ -31,7 +31,7 @@ Heat the oil in a medium pot over moderate heat. Add the shallot and garlic. Coo
 
 Add the chicken stock, water and the remaining fish sauce. Bring to a boil then reduce heat slightly.
 
-Using a tablespoon, scoop up a heaping amount of the meat mixture and drop it in the soup. Finish making all the dumplings and add to soup.  Cook, skimming the surface as needed, until dumplings are done, about 15 minutes.
+Using a tablespoon, scoop up a heaping amount of the meat mixture and drop it in the soup. Finish making all the dumplings and add to soup. Cook, skimming the surface as needed, until dumplings are done, about 15 minutes.
 
-Add the cabbage and cook for another 2-3 minutes.  Season with salt and pepper. Garnish with green onions and Cilantro.
+Add the cabbage and cook for another 2-3 minutes. Season with salt and pepper. Garnish with green onions and Cilantro.
 

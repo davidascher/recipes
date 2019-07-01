@@ -16,7 +16,7 @@ For the crust:
 2 1/2 cups all-purpose flour
 1/2 teaspoon kosher salt
 16 tablespoons unsalted butter, cold and cut into pieces
-4 to 10 tablespoons ice water 
+4 to 10 tablespoons ice water
 ```
 
 For the filling:
@@ -32,7 +32,7 @@ For the filling:
 Pinch kosher salt
 2 tablespoons unsalted butter, chilled and cut into pieces
 Milk, for brushing
-Cinnamon sugar, for sprinkling 
+Cinnamon sugar, for sprinkling
 ```
 
 \[edit\] Method

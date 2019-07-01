@@ -20,5 +20,3 @@ description: This recipe is for 2 people (adjust as needed)
 3. Add clams, cover until all have popped \(if some refuse to pop, throw them out\)
 4. Add parsley, serve.
 
-
-

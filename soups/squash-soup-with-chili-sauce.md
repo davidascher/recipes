@@ -38,11 +38,5 @@ description: >-
 
 ### To serve
 
-Place soup in bowls, put tablespoon of sauce in each bowl.  The soup is orange, the sauce is green, it's pretty!
-
-
-
-
-
-
+Place soup in bowls, put tablespoon of sauce in each bowl. The soup is orange, the sauce is green, it's pretty!
 

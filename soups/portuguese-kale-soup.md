@@ -15,7 +15,3 @@
 * Put everything but potatoes in pot; cook 2-3 hours
 * Add potatoes, 1c water more, cook until tender
 
-
-
-
-

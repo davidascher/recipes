@@ -17,11 +17,11 @@ Dressing
 
 1 lb flank steak
 
-Cook lentils \(15 min approx\).  Make dressing by combining everything.
+Cook lentils \(15 min approx\). Make dressing by combining everything.
 
 Marinate lentils etc. in dressing for four hours.
 
 Grill steak until rare, about 2 min per side.
 
-Slice thinly across teh grain.  Toss with lentils.  Serve on lettuce leaves with tomato wedges.
+Slice thinly across teh grain. Toss with lentils. Serve on lettuce leaves with tomato wedges.
 
