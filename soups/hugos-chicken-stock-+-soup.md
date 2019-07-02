@@ -13,6 +13,8 @@
 * Bouquet Garni \(Parsley, Thyme, Bay leafs, etc... There should be at least as much Parsley as the rest of the herbs combined, if not more\)
 * Peppercorn kernels
 
+### Stock Method
+
 Cut carrots, celery, leeks, parsnip, turnip, garlic, onion into halves to maximize surface area. The amount of different vegetable can be modified: Parsnips give a peppery taste, turnips a meaty taste, etc...\)
 
 Brown vegetables in oven on braise. Some burning is acceptable, but they should retain their moisture.
@@ -31,7 +33,7 @@ Let the stock cool to room temp. Skim fat and refrigerate. The stock remain fres
 
 
 
-Chicken Soup
+## Soup Ingredients
 
 * Turnip and parsnip - sliced thinly \(1/4 - 1/8 inch\) and chopped into bite size pieces
 * Carrots and celery - sliced into bite sized pieces
@@ -42,6 +44,8 @@ Chicken Soup
 * Scallions
 * Dill - fresh
 * salt and pepper to taste
+
+### Soup Method
 
 In pot of stock, put vegetable and bring to a low boil
 
