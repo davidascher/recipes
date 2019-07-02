@@ -49,6 +49,7 @@
 * [Lamb Ragù](pasta/lamb-ragu.md)
 * [Pasta Puttanesca](pasta/pasta-puttanesca.md)
 * [Linguini Vongole \(clams\)](pasta/linguini-vongole-clams.md)
+* [Roast Tomato with Pasta](pasta/roast-tomato-with-pasta.md)
 
 ## Desserts
 
