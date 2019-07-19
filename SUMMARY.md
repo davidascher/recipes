@@ -22,6 +22,7 @@
 * [Beef & spinach stir-fry with oyster sauce](meat/beef-and-spinach-stir-fry-with-oyster-sauce.md)
 * [Pork and eggplant stir-fry](meat/pork-and-eggplant-stir-fry.md)
 * [Beef Stroganoff](meat/beef-stroganoff.md)
+* [Maryam's Persian Kabobs](meat/maryams-persian-kabobs.md)
 
 ## Appetizers
 
@@ -40,6 +41,7 @@
 ## Meatless
 
 * [Madame Laracine's Gratin Dauphinois](meatless/madame-laracines-gratin-dauphinois.md)
+* [Maryam's Persian rice](meatless/maryams-persian-rice.md)
 
 ## Pasta
 
