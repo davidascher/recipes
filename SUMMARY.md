@@ -28,6 +28,13 @@
 * [Simple pan-baked chicken, potatoes & cherry tomatoes](meat/simple-pan-baked-chicken-potatoes-and-cherry-tomatoes.md)
 * [Oven braised chicken thighs in tomato and yogurt curry](meat/oven-braised-chicken-thighs-in-tomato-and-yogurt-curry.md)
 * [Parsley and Garlic meatballs](meat/parsley-and-garlic-meatballs.md)
+* [Chicken with Fennel, Garlic and Currents](meat/chicken-with-fennel-garlic-and-currents.md)
+* [Braised chicken legs with olives and tomatoes](meat/braised-chicken-legs-with-olives-and-tomatoes.md)
+* [African Lamb Shanks](meat/african-lamb-shanks.md)
+* [Roasted chicken provencal](meat/roasted-chicken-provencal.md)
+* [Keller chicken](meat/keller-chicken.md)
+* [Lemon Chicken](meat/lemon-chicken.md)
+* [Thai inspired ginger garlic ribs](meat/thai-inspired-ginger-garlic-ribs.md)
 
 ## Appetizers
 
@@ -152,4 +159,9 @@
 * [Creme-Brulee](heritage-desserts/creme-brulee.md)
 * [Gâteau-de-pain-et-de-pommes](heritage-desserts/ga-teau-de-pain-et-de-pommes.md)
 * [Gâteau-de-fête-juive](heritage-desserts/ga-teau-de-fe-te-juive.md)
+
+## Sides
+
+* [Creamy ham and leek gratin](sides/creamy-ham-and-leek-gratin.md)
+* [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
 
