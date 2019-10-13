@@ -23,6 +23,11 @@
 * [Pork and eggplant stir-fry](meat/pork-and-eggplant-stir-fry.md)
 * [Beef Stroganoff](meat/beef-stroganoff.md)
 * [Maryam's Persian Kabobs](meat/maryams-persian-kabobs.md)
+* [Chicken Ragout Jeanette](meat/chicken-ragout-jeanette.md)
+* [Chicken with mustard seed and onion sauce](meat/chicken-with-mustard-seed-and-onion-sauce.md)
+* [Simple pan-baked chicken, potatoes & cherry tomatoes](meat/simple-pan-baked-chicken-potatoes-and-cherry-tomatoes.md)
+* [Oven braised chicken thighs in tomato and yogurt curry](meat/oven-braised-chicken-thighs-in-tomato-and-yogurt-curry.md)
+* [Parsley and Garlic meatballs](meat/parsley-and-garlic-meatballs.md)
 
 ## Appetizers
 
