@@ -52,6 +52,7 @@
 
 ## Meatless
 
+* [Slow-cooked chickpeas with spicy peppers and arugula](meatless/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Madame Laracine's Gratin Dauphinois](meatless/madame-laracines-gratin-dauphinois.md)
 * [Maryam's Persian rice](meatless/maryams-persian-rice.md)
 
@@ -67,6 +68,7 @@
 
 ## Desserts
 
+* [Russian Teacakes](desserts/russian-teacakes.md)
 * [Martha's-lithuanian-kolacky-cookies](desserts/marthas-lithuanian-kolacky-cookies.md)
 * [Oatmeal-Lace-Cookies](desserts/oatmeal-lace-cookies.md)
 * [Madeleines](desserts/madeleines.md)
