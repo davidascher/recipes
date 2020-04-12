@@ -16,6 +16,8 @@
 
 ## Meat
 
+* [Peking Duck](meat/peking-duck.md)
+* [Yakitori](meat/yakitori.md)
 * [Cornish hens provencal style](meat/cornish-hens-provencal-style.md)
 * [Lighter chicken enchiladas](meat/lighter-chicken-enchiladas.md)
 * [Pork tenderloin with mustard sauce](meat/pork-tenderloin-with-mustard-sauce.md)
@@ -63,6 +65,8 @@
 
 ## Seafood
 
+* [Poached Salmon](seafood/poached-salmon.md)
+* [Fish sticks](seafood/fish-sticks.md)
 * [Lemon broiled sablefish](seafood/lemon-broiled-sablefish.md)
 
 ## Pasta and Noodles <a id="pasta"></a>
