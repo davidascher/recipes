@@ -16,6 +16,8 @@
 
 ## Meat
 
+* [Cornish hens provencal style](meat/cornish-hens-provencal-style.md)
+* [Lighter chicken enchiladas](meat/lighter-chicken-enchiladas.md)
 * [Pork tenderloin with mustard sauce](meat/pork-tenderloin-with-mustard-sauce.md)
 * [Pork chile verde](meat/pork-chile-verde.md)
 * [Beef and coconut Satays](meat/beef-and-coconut-satays.md)
