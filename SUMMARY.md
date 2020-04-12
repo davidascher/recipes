@@ -16,6 +16,8 @@
 
 ## Meat
 
+* [Pork tenderloin with mustard sauce](meat/pork-tenderloin-with-mustard-sauce.md)
+* [Pork chile verde](meat/pork-chile-verde.md)
 * [Beef and coconut Satays](meat/beef-and-coconut-satays.md)
 * [Helen's Fried Chicken](meat/helens-fried-chicken.md)
 * [Roasted chicken with pancetta and lentils](meat/chicken-pancetta-lentils.md)
