@@ -34,33 +34,32 @@
 * [Parsley and Garlic meatballs](meat/parsley-and-garlic-meatballs.md)
 * [Chicken with Fennel, Garlic and Currents](meat/chicken-with-fennel-garlic-and-currents.md)
 * [Braised chicken legs with olives and tomatoes](meat/braised-chicken-legs-with-olives-and-tomatoes.md)
-* [African Lamb Shanks](meat/african-lamb-shanks.md)
+* [Blueberry \(or grape\) chicken + pasta salad](meat/blueberry-or-grape-chicken-+-pasta-salad.md)
+* [African Lamb Shanks](meat/african-lamb-shanks/README.md)
+  * [Thai chicken lettuce wraps](meat/african-lamb-shanks/thai-chicken-lettuce-wraps.md)
 * [Roasted chicken provencal](meat/roasted-chicken-provencal.md)
+* [Flank steak + lentil salad](meat/flank-steak-+-lentil-salad.md)
 * [Keller chicken](meat/keller-chicken.md)
 * [Lemon Chicken](meat/lemon-chicken.md)
 * [Thai inspired ginger garlic ribs](meat/thai-inspired-ginger-garlic-ribs.md)
 
 ## Sides and Appetizers <a id="appetizers"></a>
 
-* [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
+* [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
+* [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs/README.md)
+  * [Madame Laracine's Gratin Dauphinois](appetizers/olive-cheese-puffs/madame-laracines-gratin-dauphinois.md)
 * [Croquettes](appetizers/croquettes.md)
 
-## Salads
+## Meatless Mains <a id="salads"></a>
 
-* [Flank steak + lentil salad](salads/flank-steak-+-lentil-salad.md)
-* [Blueberry \(or grape\) chicken + pasta salad](salads/blueberry-or-grape-chicken-+-pasta-salad.md)
-* [Thai chicken lettuce wraps](salads/thai-chicken-lettuce-wraps.md)
+* [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Moosewood Tabouli](salads/moosewood-tabouli.md)
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 * [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
 
 ## Meatless Mains <a id="meatless"></a>
 
-* [Slow-cooked chickpeas with spicy peppers and arugula](meatless/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
-* [Madame Laracine's Gratin Dauphinois](meatless/madame-laracines-gratin-dauphinois.md)
-* [Maryam's Persian rice](meatless/maryams-persian-rice.md)
-
-## Pasta
+## Pasta and Noodles <a id="pasta"></a>
 
 * [Pesto pasta](pasta/untitled.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
