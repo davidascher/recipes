@@ -61,7 +61,7 @@
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 * [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
 
-## Meatless Mains <a id="meatless"></a>
+## Seafood <a id="meatless"></a>
 
 ## Pasta and Noodles <a id="pasta"></a>
 
