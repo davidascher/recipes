@@ -4,6 +4,8 @@
 
 ## Soups
 
+* [Thai chicken and coconut soup](soups/thai-chicken-and-coconut-soup.md)
+* [Helen's Broccoli Soup](soups/helens-broccoli-soup.md)
 * [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
 * [Corn, ham and potato soup](soups/untitled.md)
 * [Napa cabbage soup with meat dumplings](soups/napa-cabbage-soup-with-meat-dumplings.md)
@@ -14,6 +16,8 @@
 
 ## Meat
 
+* [Beef and coconut Satays](meat/beef-and-coconut-satays.md)
+* [Helen's Fried Chicken](meat/helens-fried-chicken.md)
 * [Roasted chicken with pancetta and lentils](meat/chicken-pancetta-lentils.md)
 * [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
 * [Veal Piccata with Orange, Capers and Tarragon](meat/veal-piccata-with-orange-capers-and-tarragon.md)
