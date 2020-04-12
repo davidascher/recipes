@@ -71,6 +71,7 @@
 
 ## Pasta and Noodles <a id="pasta"></a>
 
+* [Lasagna](pasta/lasagna.md)
 * [Pesto pasta](pasta/untitled.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
 * [Pink Vodka Sauce Pasta](pasta/pink-vodka-sauce-pasta.md)
