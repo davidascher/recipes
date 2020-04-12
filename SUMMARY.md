@@ -40,7 +40,7 @@
 * [Lemon Chicken](meat/lemon-chicken.md)
 * [Thai inspired ginger garlic ribs](meat/thai-inspired-ginger-garlic-ribs.md)
 
-## Appetizers
+## Sides and Appetizers <a id="appetizers"></a>
 
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
 * [Croquettes](appetizers/croquettes.md)
@@ -54,7 +54,7 @@
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 * [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
 
-## Meatless
+## Meatless Mains <a id="meatless"></a>
 
 * [Slow-cooked chickpeas with spicy peppers and arugula](meatless/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Madame Laracine's Gratin Dauphinois](meatless/madame-laracines-gratin-dauphinois.md)
