@@ -63,6 +63,8 @@
 
 ## Seafood
 
+* [Lemon broiled sablefish](seafood/lemon-broiled-sablefish.md)
+
 ## Pasta and Noodles <a id="pasta"></a>
 
 * [Pesto pasta](pasta/untitled.md)
