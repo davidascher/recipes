@@ -4,6 +4,7 @@
 
 ## Soups
 
+* [April Point Lodge Salmon Chowder](soups/april-point-lodge-salmon-chowder.md)
 * [Thai chicken and coconut soup](soups/thai-chicken-and-coconut-soup.md)
 * [Helen's Broccoli Soup](soups/helens-broccoli-soup.md)
 * [Squash soup with chili sauce](soups/squash-soup-with-chili-sauce.md)
@@ -41,8 +42,8 @@
 * [Chicken with Fennel, Garlic and Currents](meat/chicken-with-fennel-garlic-and-currents.md)
 * [Braised chicken legs with olives and tomatoes](meat/braised-chicken-legs-with-olives-and-tomatoes.md)
 * [Blueberry \(or grape\) chicken + pasta salad](meat/blueberry-or-grape-chicken-+-pasta-salad.md)
-* [African Lamb Shanks](meat/african-lamb-shanks/README.md)
-  * [Thai chicken lettuce wraps](meat/african-lamb-shanks/thai-chicken-lettuce-wraps.md)
+* [African Lamb Shanks](meat/african-lamb-shanks.md)
+* [Thai chicken lettuce wraps](meat/thai-chicken-lettuce-wraps.md)
 * [Roasted chicken provencal](meat/roasted-chicken-provencal.md)
 * [Flank steak + lentil salad](meat/flank-steak-+-lentil-salad.md)
 * [Keller chicken](meat/keller-chicken.md)
@@ -65,6 +66,7 @@
 
 ## Seafood
 
+* [Poached halibut with ginger and black bean vinaigrette](seafood/poached-halibut-with-ginger-and-black-bean-vinaigrette.md)
 * [Poached Salmon](seafood/poached-salmon.md)
 * [Fish sticks](seafood/fish-sticks.md)
 * [Lemon broiled sablefish](seafood/lemon-broiled-sablefish.md)
