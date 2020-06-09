@@ -89,6 +89,7 @@
 * [Oatmeal-Lace-Cookies](desserts/oatmeal-lace-cookies.md)
 * [Madeleines](desserts/madeleines.md)
 * [Crepes-v2](desserts/crepes-v2.md)
+* [Orange Currant Scones](desserts/orange-currant-scones.md)
 * [Crepes-v1](desserts/crepes-v1.md)
 * [Tarte-au-citron](desserts/tarte-au-citron.md)
 * [Glaçage](desserts/glac-age.md)
