@@ -18,7 +18,9 @@
 ## Meat
 
 * [Peking Duck](meat/peking-duck.md)
+* [Lamb tagine with green olives](meat/lamb-tagine-with-green-olives.md)
 * [Yakitori](meat/yakitori.md)
+* [Pot roasted chicken with apples](meat/pot-roasted-chicken-with-apples.md)
 * [Cornish hens provencal style](meat/cornish-hens-provencal-style.md)
 * [Lighter chicken enchiladas](meat/lighter-chicken-enchiladas.md)
 * [Pork tenderloin with mustard sauce](meat/pork-tenderloin-with-mustard-sauce.md)
@@ -53,6 +55,8 @@
 ## Sides and Appetizers <a id="appetizers"></a>
 
 * [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
+* [Caesar Salad Dressing](appetizers/caesar-salad-dressing.md)
+* [Crisp Cheese Wafers](appetizers/crisp-cheese-wafers.md)
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs/README.md)
   * [Madame Laracine's Gratin Dauphinois](appetizers/olive-cheese-puffs/madame-laracines-gratin-dauphinois.md)
 * [Croquettes](appetizers/croquettes.md)
@@ -60,7 +64,9 @@
 ## Meatless Mains <a id="salads"></a>
 
 * [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
+* [Porcini Risotto](salads/porcini-risotto.md)
 * [Moosewood Tabouli](salads/moosewood-tabouli.md)
+* [Macaroni and Cheese](salads/macaroni-and-cheese.md)
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 * [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
 
@@ -76,10 +82,16 @@
 * [Lasagna](pasta/lasagna.md)
 * [Pesto pasta](pasta/untitled.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
+* [Takeout style sesame noodles](pasta/takeout-style-sesame-noodles.md)
+* [Bolognese](pasta/bolognese.md)
 * [Pink Vodka Sauce Pasta](pasta/pink-vodka-sauce-pasta.md)
 * [Lamb Ragù](pasta/lamb-ragu.md)
+* [Spaghetti alla Siracusana](pasta/spaghetti-alla-siracusana.md)
+* [Straw and Hay Parma style](pasta/straw-and-hay-parma-style.md)
+* [Stuffed shells](pasta/stuffed-shells.md)
 * [Pasta Puttanesca](pasta/pasta-puttanesca.md)
 * [Linguini Vongole \(clams\)](pasta/linguini-vongole-clams.md)
+* [Spaghetti with garlic, olive oil and tomato paste](pasta/spaghetti-with-garlic-olive-oil-and-tomato-paste.md)
 * [Roast Tomato with Pasta](pasta/roast-tomato-with-pasta.md)
 
 ## Desserts
@@ -182,5 +194,9 @@
 ## Sides
 
 * [Creamy ham and leek gratin](sides/creamy-ham-and-leek-gratin.md)
+* [Blue Cheese Dressing](sides/blue-cheese-dressing.md)
+* [Roasted Brussels sprouts with sweet chili sauce](sides/roasted-brussels-sprouts-with-sweet-chili-sauce.md)
+* [Spicy and garlicky Brussels Sprouts](sides/spicy-and-garlicky-brussels-sprouts.md)
+* [Peperoni alla piemontese \(anchovy-stuffed peppers\)](sides/peperoni-alla-piemontese-anchovy-stuffed-peppers.md)
 * [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
 
