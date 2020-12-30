@@ -4,7 +4,7 @@ description: 'Family recipes'
 
 # README
 
-Just some old recipes.  Editable on (github)[https://github.com/davidascher/recipes]
+Just some old recipes.  Editable on [github](https://github.com/davidascher/recipes)
 
 A fun fact about recipes -- in a notable bit of legal wisdom, they are not copyrightable \(at least according to US law\)! So, feel free to take them, copy them, enhance them.
 
