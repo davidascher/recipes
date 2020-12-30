@@ -1,5 +1,5 @@
 ---
-description: 'Edit these recipes on [https://github.com/davidascher/recipes]'
+description: Edit these recipes on [https://github.com/davidascher/recipes]
 ---
 
 # README
