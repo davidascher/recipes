@@ -4,6 +4,8 @@ Pour 6 personnes
 
 [Lien original](https://www.atoute.org/n/Recette-de-la-sauce-entrecote.html)
 
+![sauce entrecote](../images/entrecote.jpg)
+
 # Ingredients
 
 - 250 g de beurre 
