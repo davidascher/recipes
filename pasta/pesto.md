@@ -6,6 +6,8 @@ description: Linguini or spaghetti are best.
 
 The pesto paste freezes well -- good to split up in small tupperwares to able to thaw enough for a meal without thawing and refreezing all of it.
 
+![Pesto](images/pesto.jpg)
+
 ## Ingredients
 
 * 2c basil \(about 150g\), firmly packed including tender stems 
