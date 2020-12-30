@@ -22,6 +22,7 @@
 
 ## Meat
 
+* [Sauce Entrecôte](meat/sauce-entrecote.md)
 * [Peking Duck](meat/peking-duck.md)
 * [Lamb tagine with green olives](meat/lamb-tagine-with-green-olives.md)
 * [Yakitori](meat/yakitori.md)
