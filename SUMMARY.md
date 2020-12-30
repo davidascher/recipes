@@ -101,6 +101,7 @@
 
 ## Desserts
 
+* [48 cookies](desserts/48h-cookies.md)
 * [Russian Teacakes](desserts/russian-teacakes.md)
 * [Martha's-lithuanian-kolacky-cookies](desserts/marthas-lithuanian-kolacky-cookies.md)
 * [Oatmeal-Lace-Cookies](desserts/oatmeal-lace-cookies.md)
