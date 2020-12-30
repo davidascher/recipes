@@ -2,6 +2,11 @@
 
 * [README](README.md)
 
+## Breads
+
+* [Jack's Sourdough](breads/jacks-sourdough.md)
+* [Cinnamon raisin sourdough](breads/cinnamon-raisin.md)
+
 ## Soups
 
 * [April Point Lodge Salmon Chowder](soups/april-point-lodge-salmon-chowder.md)
