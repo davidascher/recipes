@@ -80,7 +80,7 @@
 ## Pasta and Noodles <a id="pasta"></a>
 
 * [Lasagna](pasta/lasagna.md)
-* [Pesto pasta](pasta/untitled.md)
+* [Pesto pasta](pasta/pesto.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
 * [Takeout style sesame noodles](pasta/takeout-style-sesame-noodles.md)
 * [Bolognese](pasta/bolognese.md)
