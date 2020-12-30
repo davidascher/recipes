@@ -1,3 +1,5 @@
+![sourdough loaf](../images/sourdough.jpeg)
+
 # Ingredients
 
 * 500g White bread flour (or some combination with roughly the same weight of bread & darker flours)
