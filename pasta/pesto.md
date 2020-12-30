@@ -11,6 +11,7 @@ The pesto paste freezes well -- good to split up in small tupperwares to able to
 * 2c basil \(about 150g\), firmly packed including tender stems 
 * zest of a lemon \(or most of it\)
 * Juice of 1 lemon
+* 6 cloves of garlic
 * 100g pine nuts
 * 1/2c Parmesan or pecorino cheese
 * 1 tsp salt
