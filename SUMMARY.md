@@ -69,6 +69,7 @@
 
 ## Meatless Mains <a id="salads"></a>
 
+* [Pizza sauce](meatless/pizza-tomato-sauce.md)
 * [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Porcini Risotto](salads/porcini-risotto.md)
 * [Moosewood Tabouli](salads/moosewood-tabouli.md)
