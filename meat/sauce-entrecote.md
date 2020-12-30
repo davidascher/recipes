@@ -2,7 +2,7 @@ Préparation 15 mn. La sauce peut être préparée en partie à l’avance.
 
 Pour 6 personnes
 
-Lien original: [https://www.atoute.org/n/Recette-de-la-sauce-entrecote.html]
+[Lien original](https://www.atoute.org/n/Recette-de-la-sauce-entrecote.html)
 
 # Ingredients
 
