@@ -2,6 +2,9 @@
 
 * [README](README.md)
 
+## Cocktails
+* [Paper Plane](cocktails/paper-plane.md)
+
 ## Breads
 
 * [Jack's Sourdough](breads/jacks-sourdough.md)
