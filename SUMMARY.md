@@ -66,6 +66,13 @@
 * [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs/README.md)
   * [Madame Laracine's Gratin Dauphinois](appetizers/olive-cheese-puffs/madame-laracines-gratin-dauphinois.md)
 * [Croquettes](appetizers/croquettes.md)
+* [Creamy ham and leek gratin](sides/creamy-ham-and-leek-gratin.md)
+* [Blue Cheese Dressing](sides/blue-cheese-dressing.md)
+* [Roasted Brussels sprouts with sweet chili sauce](sides/roasted-brussels-sprouts-with-sweet-chili-sauce.md)
+* [Spicy and garlicky Brussels Sprouts](sides/spicy-and-garlicky-brussels-sprouts.md)
+* [Peperoni alla piemontese \(anchovy-stuffed peppers\)](sides/peperoni-alla-piemontese-anchovy-stuffed-peppers.md)
+* [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
+
 
 ## Meatless Mains <a id="salads"></a>
 
@@ -198,13 +205,4 @@
 * [Creme-Brulee](heritage-desserts/creme-brulee.md)
 * [Gâteau-de-pain-et-de-pommes](heritage-desserts/ga-teau-de-pain-et-de-pommes.md)
 * [Gâteau-de-fête-juive](heritage-desserts/ga-teau-de-fe-te-juive.md)
-
-## Sides
-
-* [Creamy ham and leek gratin](sides/creamy-ham-and-leek-gratin.md)
-* [Blue Cheese Dressing](sides/blue-cheese-dressing.md)
-* [Roasted Brussels sprouts with sweet chili sauce](sides/roasted-brussels-sprouts-with-sweet-chili-sauce.md)
-* [Spicy and garlicky Brussels Sprouts](sides/spicy-and-garlicky-brussels-sprouts.md)
-* [Peperoni alla piemontese \(anchovy-stuffed peppers\)](sides/peperoni-alla-piemontese-anchovy-stuffed-peppers.md)
-* [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
 
