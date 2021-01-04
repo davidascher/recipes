@@ -1,6 +1,6 @@
 # Lentils with tahini and crispy onions
 
-![lentils](./photo.jpeg)
+![lentils](./lentils-onions.jpeg)
 
 ## Ingredients
 
