@@ -97,6 +97,7 @@
 
 ## Pasta and Noodles <a id="pasta"></a>
 
+* [Eggplant parmesan](pasta/eggplant-parm.md)
 * [Lasagna](pasta/lasagna.md)
 * [Pesto pasta](pasta/pesto.md)
 * [Tomato Sauce \(for pasta etc.\)](pasta/pasta-sauce.md)
