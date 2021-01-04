@@ -63,6 +63,7 @@
 
 ## Sides and Appetizers <a id="appetizers"></a>
 
+* [Couscous with currants and scallions](sides/couscous-currants.md)
 * [Cauliflower salad](salads/cauliflower-salad.md)
 * [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
 * [Caesar Salad Dressing](appetizers/caesar-salad-dressing.md)
