@@ -1,5 +1,7 @@
 # Lentils with tahini and crispy onions
 
+![lentils](./photo.jpeg)
+
 ## Ingredients
 
 * 1 3/4 c (350g) green lentils
