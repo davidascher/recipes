@@ -63,6 +63,7 @@
 
 ## Sides and Appetizers <a id="appetizers"></a>
 
+* [Roasted beets with orange and ginger](salads/roasted-beets-ginger.md)
 * [Couscous with currants and scallions](sides/couscous-currants.md)
 * [Cauliflower salad](salads/cauliflower-salad.md)
 * [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
