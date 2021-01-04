@@ -63,6 +63,7 @@
 
 ## Sides and Appetizers <a id="appetizers"></a>
 
+* [Cauliflower salad](salads/cauliflower-salad.md)
 * [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
 * [Caesar Salad Dressing](appetizers/caesar-salad-dressing.md)
 * [Crisp Cheese Wafers](appetizers/crisp-cheese-wafers.md)
