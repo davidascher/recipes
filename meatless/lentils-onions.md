@@ -4,14 +4,11 @@
 
 * 1 3/4 c (350g) green lentils
 
-### Crispy Onions
-
+*Crispy Onions* 
 * about 1 2/3 c sunflower oil (or other frying oil)
 * 2 onions, cut in half, then thinly sliced (2 1/2 c / 300g)
 * 1 1/2 tbsp cornstarch
 * salt
-
-### Rest
 
 * 1/4 c (60g) tahini 
 * 2 large garlic cloves, crushed
