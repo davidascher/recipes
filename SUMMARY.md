@@ -79,6 +79,7 @@
 
 ## Meatless Mains <a id="salads"></a>
 
+* [Lentils with tahini and crispy onions](meatless/lentils-onions.md)
 * [Pizza sauce](meatless/pizza-tomato-sauce.md)
 * [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Porcini Risotto](salads/porcini-risotto.md)
