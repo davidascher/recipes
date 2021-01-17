@@ -118,6 +118,7 @@
 
 ## Desserts
 
+* [Oatcakes](desserts/oatcakes.md)
 * [Pancakes (emily)](desserts/pancakes.md)
 * [Peanut Brittle](desserts/peanut-brittle.md)
 * [48 cookies](desserts/48h-cookies.md)
