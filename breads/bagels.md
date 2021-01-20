@@ -23,3 +23,15 @@
 
 1. For the water bath: Put the water into a large, shallow pan; it should be about 3" deep. Add the malt and sugar. Bring the water to a boil while you're shaping the bagels.
 
+1. Preheat the oven to 425°F.
+
+1. Divide the dough into 12-16 pieces. Working with one piece of dough at a time, shape it into a ball. Poke a hole through the center with your index finger, and twirl; the dough will form a ring.
+
+1. Place the bagels on a parchment-lined baking sheet as they're shaped.
+
+1. Once all the bagels are shaped, reduce the boiling water bath to a very gentle simmer. Starting with the first bagels you shaped, gently transfer 3 or 4 at a time to the water bath; don't crowd them. Simmer them for about 30 seconds on each side, then return them to the baking sheet.
+
+1. Bake the bagels for 20 minutes, or until they're a deep golden brown. Remove them from the oven, and cool them on a rack.
+
+1. Serve bagels warm or at room temperature. Store at room temperature, well wrapped, for several days; freeze for longer storage.
+
