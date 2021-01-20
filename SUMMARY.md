@@ -7,7 +7,7 @@
 
 ## Breads
 
-* [bagels](breads/bagels.md)
+* [Bagels](breads/bagels.md)
 * [Jack's Sourdough](breads/jacks-sourdough.md)
 * [Cinnamon raisin sourdough](breads/cinnamon-raisin.md)
 
