@@ -1,5 +1,12 @@
 # Creme-Caramel-\(Thanassi-Penny\)
 
+## Ingredients
+
+For 4 people
+
+* 3 whole eggs
+
+
 Crème renversée \(from Penny via Thanassi\)
 
 Pour 4 personnes
