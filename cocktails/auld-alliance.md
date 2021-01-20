@@ -2,12 +2,12 @@
 
 # Ingredients
 
-* Scotch
-* fresh lemon juice
-* cassis
-* simple syrup
-* orange bitters
-* egg white
+* 2 oz Scotch
+* 1 oz fresh lemon juice
+* 1/2 oz cassis
+* 1/2 oz simple syrup
+* dash orange bitters
+* 1 egg white
 
 # Steps
 
