@@ -120,6 +120,7 @@
 
 ## Desserts
 
+* [Sour cream coffee cake](desserts/sour-cream-coffee-cake.md)
 * [Oatcakes](desserts/oatcakes.md)
 * [Pancakes (emily)](desserts/pancakes.md)
 * [Peanut Brittle](desserts/peanut-brittle.md)
