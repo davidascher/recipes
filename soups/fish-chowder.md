@@ -7,7 +7,7 @@
 * 1 c sliced celery
 * 2 large tomatoes, peeled, diced \(1c\)
 * 1 large potato, diced \(1c\)
-* 1 lb fish
+* 1 lb fish, any type of whitefish works
 * 2 1/2c water
 * 1 1/2 tsp salt
 * 1/4 tsp pepper
