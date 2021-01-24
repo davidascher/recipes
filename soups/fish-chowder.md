@@ -17,9 +17,8 @@
 
 ## Steps
 
-* Cook bacon, then onion.
-* Add water, veggies
-* Cook potato
-* Add fish
+* Cook bacon, then onion, then celery.
+* Add water, s&p, potato, cook until done
+* Add fish and tomato, cook through
 * Make white sauce separately, then add.
 
