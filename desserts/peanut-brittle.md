@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-* 1/2 c white sugar
-* 1/2 c brown sugar
+* 1 c white sugar
+* 1/2 c light corn syrup
 * 1/4 c water
 * 1/4 tsp salt (or use salted roasted peanuts)
 * 1 1/2 c roasted peanuts
