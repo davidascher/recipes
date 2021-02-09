@@ -27,7 +27,6 @@
 
 ## Meat
 
-* [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Sauce Entrecôte](meat/sauce-entrecote.md)
 * [Peking Duck](meat/peking-duck.md)
 * [Lamb tagine with green olives](meat/lamb-tagine-with-green-olives.md)
@@ -98,6 +97,7 @@
 
 ## Seafood
 
+* [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Poached halibut with ginger and black bean vinaigrette](seafood/poached-halibut-with-ginger-and-black-bean-vinaigrette.md)
 * [Poached Salmon](seafood/poached-salmon.md)
 * [Fish sticks](seafood/fish-sticks.md)
