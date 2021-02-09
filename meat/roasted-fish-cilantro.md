@@ -1,5 +1,7 @@
 Can be done with cod, trout, pretty much whatever fish.
 
+![Orzo and Fish](../orzo_fish.jpeg)
+
 # Ingredients
 
 * 4 tbsp / 60mL olive oil
