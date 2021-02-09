@@ -1,3 +1,5 @@
+![Orzo and Fish](../orzo_fish.jpeg)
+
 # Ingredients
 
 * 1 1/3 cup (250g) orzo 
