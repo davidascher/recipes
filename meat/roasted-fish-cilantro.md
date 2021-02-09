@@ -11,7 +11,7 @@ Can be done with cod, trout, pretty much whatever fish.
 * 4 large cod fillets, about 1 1/2 lb
 * 4 large fresh bay leaves (optional)
 * 2 lemons: 1 cut into 8 very thin slices, and 1 quartered lengthwise into wedges
-* about 1/4 cup tahini sauce
+* about 1/4 cup [tahini sauce](https://recipes.ascher.ca/appetizers/tahini-sauce)
 
 # Steps
 
