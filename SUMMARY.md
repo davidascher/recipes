@@ -27,6 +27,7 @@
 
 ## Meat
 
+* [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Sauce Entrecôte](meat/sauce-entrecote.md)
 * [Peking Duck](meat/peking-duck.md)
 * [Lamb tagine with green olives](meat/lamb-tagine-with-green-olives.md)
@@ -65,6 +66,7 @@
 
 ## Sides and Appetizers <a id="appetizers"></a>
 
+* [Tahini sauce](meatless/tahini-sauce.md)
 * [Roasted beets with orange and ginger](salads/roasted-beets-ginger.md)
 * [Couscous with currants and scallions](sides/couscous-currants.md)
 * [Cauliflower salad](salads/cauliflower-salad.md)
@@ -84,6 +86,7 @@
 
 ## Meatless Mains <a id="salads"></a>
 
+* [Orzo and spinach](meatless/spinach-orzo.md)
 * [Lentils with tahini and crispy onions](meatless/lentils-onions.md)
 * [Pizza sauce](meatless/pizza-tomato-sauce.md)
 * [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
