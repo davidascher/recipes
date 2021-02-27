@@ -27,6 +27,7 @@
 
 ## Meat
 
+* [Spanish chicken](meat/spanish-chicken.md)
 * [Chicken tarragon](meat/chicken-tarragon.md)
 * [Sauce Entrecôte](meat/sauce-entrecote.md)
 * [Peking Duck](meat/peking-duck.md)
