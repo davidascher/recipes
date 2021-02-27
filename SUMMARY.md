@@ -43,7 +43,7 @@
 * [Roasted chicken with pancetta and lentils](meat/chicken-pancetta-lentils.md)
 * [Saucy chicken and arugula meatballs](meat/saucy-chicken-and-arugula-meatballs.md)
 * [Veal Piccata with Orange, Capers and Tarragon](meat/veal-piccata-with-orange-capers-and-tarragon.md)
-* [Chicken with cream + noodles](meat/chicken-with-cream-+-noodles.md)
+* [Chicken with sour cream + noodles](meat/chicken-with-cream-+-noodles.md)
 * [Zucchini with italian sausage stuffing](meat/zucchini-with-italian-sausage-stuffing.md)
 * [Beef & spinach stir-fry with oyster sauce](meat/beef-and-spinach-stir-fry-with-oyster-sauce.md)
 * [Pork and eggplant stir-fry](meat/pork-and-eggplant-stir-fry.md)
@@ -105,7 +105,7 @@
 * [Fish sticks](seafood/fish-sticks.md)
 * [Lemon broiled sablefish](seafood/lemon-broiled-sablefish.md)
 
-## Pasta and Noodles <a id="pasta"></a>
+## Pasta and Noodles <a id="pasta and noodles"></a>
 
 * [Eggplant parmesan](pasta/eggplant-parm.md)
 * [Lasagna](pasta/lasagna.md)
@@ -122,6 +122,7 @@
 * [Linguini Vongole \(clams\)](pasta/linguini-vongole-clams.md)
 * [Spaghetti with garlic, olive oil and tomato paste](pasta/spaghetti-with-garlic-olive-oil-and-tomato-paste.md)
 * [Roast Tomato with Pasta](pasta/roast-tomato-with-pasta.md)
+* [Sichuan Noodles](pasta/sichuan-noodles.md)
 
 ## Desserts
 
