@@ -104,6 +104,7 @@
 * [Poached Salmon](seafood/poached-salmon.md)
 * [Fish sticks](seafood/fish-sticks.md)
 * [Lemon broiled sablefish](seafood/lemon-broiled-sablefish.md)
+* [Asian glazed salmon](seafood/asian-salmon.md)
 
 ## Pasta and Noodles <a id="pasta and noodles"></a>
 
