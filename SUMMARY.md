@@ -5,6 +5,7 @@
 ## Cocktails
 * [Paper Plane](cocktails/paper-plane.md)
 * [Auld Alliance](cocktails/auld-alliance.md)
+* [Boulevardier](cocktails/boulevardier.md)
 
 ## Breads
 
