@@ -86,7 +86,7 @@
 * [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
 
 
-## Meatless Mains <a id="salads"></a>
+## Meatless Mains <a id="meatless"></a>
 
 * [Green Shakshuka](meatless/green-shakshuka.md)
 * [Orzo and spinach](meatless/spinach-orzo.md)
