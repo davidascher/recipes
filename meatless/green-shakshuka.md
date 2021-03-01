@@ -1,3 +1,5 @@
+![Green shakshuka and roasted potatoes](./IMG_0878.jpeg)
+
 # Ingredients
 
 * 2 1/1 tbsp olive oil
