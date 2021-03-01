@@ -88,6 +88,7 @@
 
 ## Meatless Mains <a id="salads"></a>
 
+* [Green Shakshuka](meatless/green-shakshuka.md)
 * [Orzo and spinach](meatless/spinach-orzo.md)
 * [Lentils with tahini and crispy onions](meatless/lentils-onions.md)
 * [Pizza sauce](meatless/pizza-tomato-sauce.md)
