@@ -1,4 +1,4 @@
-![Green shakshuka and roasted potatoes](./IMG_0878.jpeg)
+![Green shakshuka and fried potatoes](./IMG_0878.jpeg)
 
 # Ingredients
 
