@@ -66,7 +66,7 @@
 * [Lemon Chicken](meat/lemon-chicken.md)
 * [Thai inspired ginger garlic ribs](meat/thai-inspired-ginger-garlic-ribs.md)
 
-## Sides and Appetizers <a id="appetizers"></a>
+## Sides, Salads and Appetizers <a id="appetizers"></a>
 
 * [Tahini sauce](meatless/tahini-sauce.md)
 * [Roasted beets with orange and ginger](salads/roasted-beets-ginger.md)
@@ -84,6 +84,7 @@
 * [Spicy and garlicky Brussels Sprouts](sides/spicy-and-garlicky-brussels-sprouts.md)
 * [Peperoni alla piemontese \(anchovy-stuffed peppers\)](sides/peperoni-alla-piemontese-anchovy-stuffed-peppers.md)
 * [Butternut squash gratin with sausage](sides/butternut-squash-gratin-with-sausage.md)
+* [Moosewood Tabouli](salads/moosewood-tabouli.md)
 
 
 ## Meatless Mains <a id="meatless"></a>
@@ -94,10 +95,11 @@
 * [Pizza sauce](meatless/pizza-tomato-sauce.md)
 * [Slow-cooked chickpeas with spicy peppers and arugula](salads/slow-cooked-chickpeas-with-spicy-peppers-and-arugula.md)
 * [Porcini Risotto](salads/porcini-risotto.md)
-* [Moosewood Tabouli](salads/moosewood-tabouli.md)
 * [Macaroni and Cheese](salads/macaroni-and-cheese.md)
 * [James Beard White Bean Salad](salads/james-beard-white-bean-salad.md)
 * [Mjadra aka Mujaddara](salads/mjadra-aka-mujaddara.md)
+
+
 
 ## Seafood
 
