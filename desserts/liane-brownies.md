@@ -12,6 +12,7 @@ Liane's mom's recipe, tweaked
 
 # Steps
 
+0. Preheat oven at 350F
 1. melt chocolate and butter
 2. add sugars, add vanilla and eggs
 4. mix in flour
