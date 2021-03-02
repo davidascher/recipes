@@ -132,7 +132,7 @@
 
 ## Desserts
 
-* [Liane's brownies[(desserts/liane-brownies.md)
+* [Liane's brownies](desserts/liane-brownies.md)
 * [Chocolate pudding](desserts/chocolate-pudding.md)
 * [Oatcakes](desserts/oatcakes.md)
 * [Pancakes (emily)](desserts/pancakes.md)
