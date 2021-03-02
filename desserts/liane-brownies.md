@@ -13,7 +13,6 @@ Liane's mom's recipe, tweaked
 # Steps
 
 1. melt chocolate and butter
-2. aadd sugars
-3. add vanilla and eggs
-4. add flour
+2. add sugars, add vanilla and eggs
+4. mix in flour
 5. bake at 350 F in a 13x9 inch pain 
