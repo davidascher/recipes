@@ -132,6 +132,7 @@
 
 ## Desserts
 
+* [Oatmeal raisin cookies](desserts/oatmeal-raisin.md)
 * [Liane's brownies](desserts/liane-brownies.md)
 * [Chocolate pudding](desserts/chocolate-pudding.md)
 * [Oatcakes](desserts/oatcakes.md)
