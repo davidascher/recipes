@@ -13,7 +13,7 @@
 
 # Steps
 
-1. Boil noodes until al denta, drain and rinse
+1. Boil noodes until al dente, drain and rinse
 1. Whisk together soy sauce, vinegar, sugar, and sesame oil in largish bowl
 1. In oil, cook esame seeds and pepper flakes until fragrent, 3-5 minutes
 1. Off heat, add scallion whites then add to soy sauce mixture
