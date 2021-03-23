@@ -1,4 +1,4 @@
-Ingredients
+# Ingredients
 
 * 12 oz dried udon or lo mein noodles
 * 5 tablespoons soy sauce
@@ -11,7 +11,7 @@ Ingredients
 * 12 scallions, white and g reen parts thinly sliced, reserve separately
 * 4 fried eggs to serve, optional
 
-Steps
+# Steps
 
 1. Boil noodes until al denta, drain and rinse
 1. Whisk together soy sauce, vinegar, sugar, and sesame oil in largish bowl
