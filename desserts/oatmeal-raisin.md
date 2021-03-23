@@ -1,3 +1,5 @@
+![Oatmeal raisin spelt cookies](https://user-images.githubusercontent.com/51278/112092958-e4adab80-8b55-11eb-8939-47bdb3ee758c.jpeg)
+
 # Ingredients
 
 * 1 cup (227 g) butter, room temperature
