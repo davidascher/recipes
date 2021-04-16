@@ -7,17 +7,17 @@
 * 1 1/2 teaspoon salt
 * 1/4 cup lemon juice
 * 1 heaping tablespoon crushed garlic
-* 1/2 cup chopped scallions
+* chopped scallions
 * 1/4 cup olive oil
-* Mint
-* One packed cup chopped parsley
-* Two medium tomatoes diced
-* 1/2 cup chopped cucumber
-* Feta
+* lots of chopped Mint
+* lots of chopped parsley
+* diced tomatoes 
+* lots of chopped cucumber
+* lots of Feta
 
 ## Steps
 
 * Combine bulghur, water, salt. Cover and let stand for at least 15 minutes
-* Add lemon juice, garlic, olive oil, min, refrigerate 2-3 hours
+* Add lemon juice, garlic, olive oil refrigerate 2-3 hours
 * Add veggies, cheese.
 
