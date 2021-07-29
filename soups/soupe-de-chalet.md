@@ -1,3 +1,6 @@
+![soupe-de-chalet](https://user-images.githubusercontent.com/51278/127560435-974cc23b-d395-45de-b09b-3ef8d5f57b41.jpeg)
+
+
 # Ingredients
 
 * 1 tbsp butter
