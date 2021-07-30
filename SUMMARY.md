@@ -29,7 +29,7 @@
 * [Hamburger soup](soups/hamburger-soup.md)
 
 ## Meat
-
+* [Lemon Beef Roast](meat/lemon-beef-roast.md)
 * [Spanish chicken](meat/spanish-chicken.md)
 * [Chicken tarragon](meat/chicken-tarragon.md)
 * [Sauce Entrecôte](meat/sauce-entrecote.md)
