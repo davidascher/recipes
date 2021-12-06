@@ -15,6 +15,7 @@
 * [Bagels](breads/bagels.md)
 * [Jack's Sourdough](breads/jacks-sourdough.md)
 * [Cinnamon raisin sourdough](breads/cinnamon-raisin.md)
+* [Telera buns](breads/telera-buns.md)
 
 ## Soups
 
