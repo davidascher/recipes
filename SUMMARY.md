@@ -10,6 +10,7 @@
 ## Breads
 
 * [Cinnamon rolls](breads/cinnamon-rolls.md)
+* [Sweet Dough](breads/sweet-dough.md)
 * [Cardadmom Walnut rolls](breads/cardamom-walnut-rolls.md)
 * [Bagels](breads/bagels.md)
 * [Jack's Sourdough](breads/jacks-sourdough.md)
