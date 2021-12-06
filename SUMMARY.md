@@ -107,6 +107,7 @@
 
 ## Seafood
 
+* [Sesame Salmon Bowl](seafood/sesame-salmon-bowl.md)
 * [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Poached halibut with ginger and black bean vinaigrette](seafood/poached-halibut-with-ginger-and-black-bean-vinaigrette.md)
 * [Poached Salmon](seafood/poached-salmon.md)
