@@ -1,21 +1,33 @@
-# Creme-Caramel-\(Thanassi-Penny\)
+# Creme-Caramel from Thanassi/Penny
 
 ## Ingredients
 
 For 4 people
 
 * 3 whole eggs
+* 3/4 c sugar (half to be used to make caramel, 1/2 in the milk)
+* salted butter for ramekins
+* 1/2 l of milk
 
+## Steps
 
-Crème renversée \(from Penny via Thanassi\)
+* Preheat oven at 250F
+* Butter the ramekins
+* Make caramel till golden brown with 75g sugar (or 3/8c), pour into ramekins
+* Beat eggs in a medium bowl
+* Heat the milk with half of the sugar
+* Pour into beaten eggs whisking constantly to avoid cooking the eggs
+* Pour into ramekins
+* Place ramekins into baking dish with hot water at half height
+* Bake until just set (at least 50m, can be longer depending on water height)
+
+# Crème renversée \(from Penny via Thanassi\)
 
 Pour 4 personnes
 
 * 3 œufs entiers
 * 50 cl de lait
 * 3/4 c de sucre \(1/2 pour le caramel, 1/2 pour le lait\)
-* 80 g de sucre en poudre
-* 15 morceaux de sucre = 15x5=75g = 22 little cubes 
 * beurre salé pour les ramequins
 
 Préchauffez le four à 120 ºC \(thermostat 4\). -- 250F
