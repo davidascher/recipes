@@ -1,5 +1,8 @@
 # Olive Cheese Puffs \(ca 1950\)
 
+
+force build
+
 ## Ingredients
 
 * 1c grated cheddar
