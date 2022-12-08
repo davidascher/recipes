@@ -1,7 +1,7 @@
-# Olive Cheese Puffs \(ca 1950\)
+# Olive Cheese Puffs
 
+recipe from the 50s
 
-force build
 
 ## Ingredients
 
