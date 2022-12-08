@@ -80,7 +80,7 @@
 * [Maryam's Persian rice](appetizers/maryams-persian-rice.md)
 * [Caesar Salad Dressing](appetizers/caesar-salad-dressing.md)
 * [Crisp Cheese Wafers](appetizers/crisp-cheese-wafers.md)
-* [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs/README.md)
+* [Olive Cheese Puffs \(ca 1950\)](appetizers/olive-cheese-puffs.md)
 * [Madame Laracine's Gratin Dauphinois](sides/gratin-dauphinois.md)
 * [Croquettes](appetizers/croquettes.md)
 * [Creamy ham and leek gratin](sides/creamy-ham-and-leek-gratin.md)
