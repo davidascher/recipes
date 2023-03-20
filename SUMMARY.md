@@ -143,7 +143,7 @@
 * [Oatcakes](desserts/oatcakes.md)
 * [Pancakes (emily)](desserts/pancakes.md)
 * [Peanut Brittle](desserts/peanut-brittle.md)
-* [48 cookies](desserts/48h-cookies.md)
+* [48 hour cookies](desserts/48-hour-cookies.md)
 * [Russian Teacakes](desserts/russian-teacakes.md)
 * [Martha's-lithuanian-kolacky-cookies](desserts/marthas-lithuanian-kolacky-cookies.md)
 * [Oatmeal-Lace-Cookies](desserts/oatmeal-lace-cookies.md)
