@@ -20,7 +20,7 @@
 ## Soups
 
 * [Soupe de Chalet](soups/soupe-de-chalet.md)
-* [Cacciucco](Cacciucco-(Tuscan-Fish-Soup)).md
+* [Cacciucco](Cacciucco-(Tuscan-Fish-Soup).md)
 * [April Point Lodge Salmon Chowder](soups/april-point-lodge-salmon-chowder.md)
 * [Thai chicken and coconut soup](soups/thai-chicken-and-coconut-soup.md)
 * [Helen's Broccoli Soup](soups/helens-broccoli-soup.md)
