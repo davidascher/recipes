@@ -109,7 +109,7 @@
 ## Seafood
 
 * [Sesame Salmon Bowl](seafood/sesame-salmon-bowl.md)
-* [Cacciucco - Tuscan Fish Soup](Cacciucco-(Tuscan-Fish-Soup).md)
+* [Cacciucco - Tuscan Fish Soup](seafood/cacciucco-tuscan-fish-soup.md)
 * [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Poached halibut with ginger and black bean vinaigrette](seafood/poached-halibut-with-ginger-and-black-bean-vinaigrette.md)
 * [Poached Salmon](seafood/poached-salmon.md)
