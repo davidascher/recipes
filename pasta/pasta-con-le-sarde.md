@@ -5,7 +5,7 @@
 * 500g (1 lb) bucatini
 * Salt
 
-## For the condimento:
+### For the condimento:
 
 * 1 onion, finely chopped
 * 2 fennel bulbs, just the stems and fronds
@@ -17,7 +17,7 @@
 * Olive oil
 * Salt
 
-## For the topping (optional):
+### For the topping (optional):
 
 * 100g (1 cup) breadcrumbs
 * Olive oil
