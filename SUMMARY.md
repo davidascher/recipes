@@ -20,7 +20,6 @@
 ## Soups
 
 * [Soupe de Chalet](soups/soupe-de-chalet.md)
-* [Cacciucco - Tuscan Fish Soup](Cacciucco-(Tuscan-Fish-Soup).md)
 * [April Point Lodge Salmon Chowder](soups/april-point-lodge-salmon-chowder.md)
 * [Thai chicken and coconut soup](soups/thai-chicken-and-coconut-soup.md)
 * [Helen's Broccoli Soup](soups/helens-broccoli-soup.md)
@@ -110,6 +109,7 @@
 ## Seafood
 
 * [Sesame Salmon Bowl](seafood/sesame-salmon-bowl.md)
+* [Cacciucco - Tuscan Fish Soup](Cacciucco-(Tuscan-Fish-Soup).md)
 * [Roasted fish with cilantro crust](meat/roasted-fish-cilantro.md)
 * [Poached halibut with ginger and black bean vinaigrette](seafood/poached-halibut-with-ginger-and-black-bean-vinaigrette.md)
 * [Poached Salmon](seafood/poached-salmon.md)
