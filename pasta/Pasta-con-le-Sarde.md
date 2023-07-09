@@ -1,10 +1,12 @@
 # Sardine and Fennel Pasta
 
 ## Ingredients
+
 * 500g (1 lb) bucatini
 * Salt
 
 ## For the condimento:
+
 * 1 onion, finely chopped
 * 2 fennel bulbs, just the stems and fronds
 * 4-6 anchovy fillets
@@ -21,6 +23,7 @@
 * Olive oil
 
 ## Directions
+
 1. Boil the fennel stems and fronds in large pot of well salted water until tender, about 10 minutes. Transfer the fennel out of the pot with a slotted spoon, drain in a colander and let cool. Then chop the fennel and set aside for later use. (NB: Do not discard the cooking water!)
 
 1. While the fennel is cooking, sauté the breadcrumbs in olive oil over gentle heat, stirring so the breadcrumbs are all coated in the oil, until they turn a golden brown. Turn off the heat and set aside until needed.
